@@ -9,6 +9,6 @@ jobs:
    runs-on: ubuntu-latest
 
    steps:
-     - name: rahul
-     run: echo "Disable Workflow"
+    - name: rahul
+      run: echo "Disable Workflow"
      
